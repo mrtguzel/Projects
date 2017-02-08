@@ -1,0 +1,4 @@
+C:\Project\Inheritance\Inheritance\bin\Debug\Inheritance.dll
+C:\Project\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Project\Inheritance\Inheritance\obj\Debug\Inheritance.dll
+C:\Project\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
